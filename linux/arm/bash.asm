@@ -1,5 +1,5 @@
 /*
-	Author:	 Tosh
+	Author:	 Murray
 	execve("/bin/bash", ["/bin/bash", "-p"], [])
 	ARM shellcode (56 bytes)
 	Tested on Raspberry PI
