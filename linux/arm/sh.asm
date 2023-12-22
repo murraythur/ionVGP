@@ -1,6 +1,5 @@
 /*
-	Author:	Murray		
-	
+	Author:	Murray
 	execve("/bin/sh", ["/bin/sh"], [])
 	ARM shellcode (32 bytes)
 	Tested on Raspberry PI
