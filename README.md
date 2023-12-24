@@ -1,5 +1,5 @@
 # vgp-assembly
-Repositório VGP para o trabalho em grupo de montagem do Gnome.
+Repositório para o trabalho em grupo de montagem do Gnome.
 
 ## Contents
 * Galaxy Workflow
